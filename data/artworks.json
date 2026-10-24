@@ -1,0 +1,134 @@
+[
+  {
+    "id": "terracotta-study",
+    "title": "Terracotta Study",
+    "artist": "Sample Artist One",
+    "date": "2026-10-20",
+    "alt": "Solid terracotta study color placeholder; sample artwork.",
+    "width": 900,
+    "height": 1200,
+    "thumbnail": "assets/artwork/terracotta-study/thumbnail.svg",
+    "image": "assets/artwork/terracotta-study/full.svg"
+  },
+  {
+    "id": "quiet-blue",
+    "title": "Quiet Blue",
+    "artist": "Sample Artist Two",
+    "date": "2026-10-12",
+    "alt": "Solid quiet blue color placeholder; sample artwork.",
+    "width": 1200,
+    "height": 900,
+    "thumbnail": "assets/artwork/quiet-blue/thumbnail.svg",
+    "image": "assets/artwork/quiet-blue/full.svg"
+  },
+  {
+    "id": "ochre-field",
+    "title": "Ochre Field",
+    "artist": "Sample Artist One",
+    "date": "2026-09-28",
+    "alt": "Solid ochre field color placeholder; sample artwork.",
+    "width": 800,
+    "height": 1200,
+    "thumbnail": "assets/artwork/ochre-field/thumbnail.svg",
+    "image": "assets/artwork/ochre-field/full.svg"
+  },
+  {
+    "id": "sage-square",
+    "title": "Sage Square",
+    "artist": "Sample Artist Three",
+    "date": "2026-09-10",
+    "alt": "Solid sage square color placeholder; sample artwork.",
+    "width": 1000,
+    "height": 1000,
+    "thumbnail": "assets/artwork/sage-square/thumbnail.svg",
+    "image": "assets/artwork/sage-square/full.svg"
+  },
+  {
+    "id": "rose-light",
+    "title": "Rose Light",
+    "artist": "Sample Artist Two",
+    "date": "2026-08-22",
+    "alt": "Solid rose light color placeholder; sample artwork.",
+    "width": 1400,
+    "height": 900,
+    "thumbnail": "assets/artwork/rose-light/thumbnail.svg",
+    "image": "assets/artwork/rose-light/full.svg"
+  },
+  {
+    "id": "deep-water",
+    "title": "Deep Water",
+    "artist": "Sample Artist Three",
+    "date": "2026-08-01",
+    "alt": "Solid deep water color placeholder; sample artwork.",
+    "width": 900,
+    "height": 1400,
+    "thumbnail": "assets/artwork/deep-water/thumbnail.svg",
+    "image": "assets/artwork/deep-water/full.svg"
+  },
+  {
+    "id": "warm-clay",
+    "title": "Warm Clay",
+    "artist": "Sample Artist One",
+    "date": "2026-07-14",
+    "alt": "Solid warm clay color placeholder; sample artwork.",
+    "width": 1000,
+    "height": 1200,
+    "thumbnail": "assets/artwork/warm-clay/thumbnail.svg",
+    "image": "assets/artwork/warm-clay/full.svg"
+  },
+  {
+    "id": "lavender-evening",
+    "title": "Lavender Evening",
+    "artist": "Sample Artist Two",
+    "date": "2026-06-30",
+    "alt": "Solid lavender evening color placeholder; sample artwork.",
+    "width": 1300,
+    "height": 900,
+    "thumbnail": "assets/artwork/lavender-evening/thumbnail.svg",
+    "image": "assets/artwork/lavender-evening/full.svg"
+  },
+  {
+    "id": "olive-study",
+    "title": "Olive Study",
+    "artist": "Sample Artist Three",
+    "date": "2026-06-05",
+    "alt": "Solid olive study color placeholder; sample artwork.",
+    "width": 900,
+    "height": 1100,
+    "thumbnail": "assets/artwork/olive-study/thumbnail.svg",
+    "image": "assets/artwork/olive-study/full.svg"
+  },
+  {
+    "id": "soft-sand",
+    "title": "Soft Sand",
+    "artist": "Sample Artist One",
+    "date": "2026-05-19",
+    "alt": "Solid soft sand color placeholder; sample artwork.",
+    "width": 1200,
+    "height": 800,
+    "thumbnail": "assets/artwork/soft-sand/thumbnail.svg",
+    "image": "assets/artwork/soft-sand/full.svg"
+  },
+  {
+    "id": "brick-red",
+    "title": "Brick Red",
+    "artist": "Sample Artist Two",
+    "date": "2026-04-02",
+    "alt": "Solid brick red color placeholder; sample artwork.",
+    "width": 800,
+    "height": 1200,
+    "thumbnail": "assets/artwork/brick-red/thumbnail.svg",
+    "image": "assets/artwork/brick-red/full.svg"
+  },
+  {
+    "id": "slate-study",
+    "title": "Slate Study",
+    "artist": "Sample Artist Three",
+    "date": "2026-03-11",
+    "alt": "Solid slate study color placeholder; sample artwork.",
+    "width": 1000,
+    "height": 1000,
+    "thumbnail": "assets/artwork/slate-study/thumbnail.svg",
+    "image": "assets/artwork/slate-study/full.svg"
+  }
+]

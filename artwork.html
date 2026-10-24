@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171b20">
+  <title>Artwork · Family paintings</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script type="module" src="assets/js/artwork.js"></script>
+</head>
+<body>
+  <main class="artwork-page">
+    <a class="back-link" href="index.html">← Back to gallery</a>
+    <article id="artwork" aria-busy="true" hidden>
+      <img id="artwork-image" class="artwork-image" decoding="async" fetchpriority="high" alt="">
+      <div class="artwork-details">
+        <h1 id="artwork-title"></h1>
+        <p id="artwork-artist"></p>
+        <time id="artwork-date"></time>
+      </div>
+    </article>
+    <p id="status" class="status" role="status"></p>
+    <noscript><p class="status">Please enable JavaScript to view this painting.</p></noscript>
+  </main>
+</body>
+</html>
