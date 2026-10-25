@@ -7,8 +7,8 @@
     "alt": "Portrait of a blue jay sitting on a tree branch.",
     "width": 800,
     "height": 565,
-    "thumbnail": "assets/artwork/blue-jay/thumbnail.svg",
-    "image": "assets/artwork/blue-jay/full.svg"
+    "thumbnail": "assets/artwork/blue-jay/thumbnail.webp",
+    "image": "assets/artwork/blue-jay/full.webp"
   },
   {
     "id": "terracotta-study",
