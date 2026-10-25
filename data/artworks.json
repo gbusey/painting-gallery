@@ -1,5 +1,16 @@
 [
   {
+    "id": "blue-jay",
+    "title": "Blue Jay",
+    "artist": "Sheila",
+    "date": "2026-09-12",
+    "alt": "Portrait of a blue jay sitting on a tree branch.",
+    "width": 800,
+    "height": 565,
+    "thumbnail": "assets/artwork/blue-jay/thumbnail.svg",
+    "image": "assets/artwork/blue-jay/full.svg"
+  },
+  {
     "id": "terracotta-study",
     "title": "Terracotta Study",
     "artist": "Sample Artist One",
