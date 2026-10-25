@@ -1,4 +1,4 @@
-# Family painting gallery
+# Family Painting Gallery
 
 A static, responsive masonry gallery with individual artwork pages. Plain HTML, CSS, JavaScript, and JSON; no build step or backend.
 
