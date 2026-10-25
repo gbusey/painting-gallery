@@ -2,8 +2,6 @@
 
 A static, responsive masonry gallery with individual artwork pages. Plain HTML, CSS, JavaScript, and JSON; no build step or backend.
 
-The initial collection contains **12 solid-color placeholders**, with fictional sample titles and artists.
-
 ## Preview locally
 
 From the repository root, run:
@@ -32,7 +30,7 @@ The gallery sorts by creation date, newest first. Equal dates sort by ID for con
 ## Add a painting
 
 1. Choose a unique, stable lowercase ID with hyphens, such as `blue-vase`. Avoid changing IDs after publication so shared links keep working.
-2. Create `assets/artwork/blue-vase/` with `thumbnail.webp` and `full.webp`. JPEG and PNG also work; the initial placeholders use SVG.
+2. Create `assets/artwork/blue-vase/` with `thumbnail.webp` and `full.webp`. JPEG and PNG also work.
 3. Add an object to `data/artworks.json`:
 
 ```json
