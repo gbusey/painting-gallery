@@ -1,5 +1,27 @@
 [
   {
+    "id": "castle",
+    "title": "Castle",
+    "artist": "Garrett",
+    "date": "2026-10-12",
+    "alt": "A gray stone castle sits on a steep green cliff above turquoise water under a bright blue sky.",
+    "width": 1700,
+    "height": 2400,
+    "thumbnail": "assets/artwork/castle/thumbnail.webp",
+    "image": "assets/artwork/castle/full.webp"
+  },
+  {
+    "id": "carolina-wren",
+    "title": "Carolina Wren",
+    "artist": "Sheila",
+    "date": "2026-10-12",
+    "alt": "A reddish brown wren with a peach breast and a white stripe above its eye faces right against a muted green background.",
+    "width": 2400,
+    "height": 1685,
+    "thumbnail": "assets/artwork/carolina-wren/thumbnail.webp",
+    "image": "assets/artwork/carolina-wren/full.webp"
+  },
+  {
     "id": "black-capped-chickadee",
     "title": "Black-capped Chickadee",
     "artist": "Sheila",
