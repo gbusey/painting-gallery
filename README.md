@@ -49,4 +49,4 @@ The gallery sorts by creation date, newest first. Equal dates sort by ID for con
 
 Use a complete creation date in `YYYY-MM-DD` format. `width` and `height` are the full image's pixel dimensions after correcting its orientation. The thumbnail must have the same proportions. Write a short visual description in `alt`; title and artist are already provided to assistive technology by the artwork link.
 
-Export thumbnails around 800 pixels wide, and full images around 2000–2400 pixels on the longest side. Adjust these to balance detail and download size. Keep original camera files outside the published repo. All published files are public.
+Export thumbnails around 800 pixels wide, and full images around 2400 pixels on the longest side. Scale the other side. Use shift + C, highlight area, and then enter in gimp to crop the sides. 
